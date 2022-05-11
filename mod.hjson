@@ -1,0 +1,24 @@
+name: ukrainian-translation-mod
+displayName: Ukrainian translation
+author: Prosta4ok_ua#6336
+description:
+  '''
+
+  WARNING: For Ukrainian language only.
+
+  Modification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.
+  Supports v7 only.
+
+  Discord for Ukrainian speaking: https://discord.gg/VDjWyCssvP
+
+  ----------------------------------------
+
+  ПОПЕРЕДЖЕННЯ: Лише для української мови.
+
+  Модифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.
+  Підтримує тільки v7.
+
+  Discord для українськомовних: https://discord.gg/VDjWyCssvP
+  '''
+version: 7.0.1
+minGameVersion: 136
