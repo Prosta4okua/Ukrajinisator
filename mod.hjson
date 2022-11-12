@@ -21,4 +21,5 @@ description:
   Discord для українськомовних: https://discord.gg/VDjWyCssvP
   '''
 version: 7.0.1
+hidden: true
 minGameVersion: 140
