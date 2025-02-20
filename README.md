@@ -10,3 +10,5 @@ Lol, why? That's hjson mod.
 ## Discord
 I don't have server, contact me on official Mindustry server.<br>
 My nickname: `Prosta4ok_ua#6336`/
+
+Discord username: `Prosta4ok_ua`
